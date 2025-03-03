@@ -1,5 +1,5 @@
 # hey, i'm luis.  
-#### I'm a creative technologist and computer science student based in brazil. 👍  
+#### i'm a creative technologist and computer science student based in brazil. 👍  
 
 <p align="center">
 
