@@ -1,5 +1,5 @@
 <div align="center">
-
+##Technologies and skills
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -31,5 +31,4 @@
 > and how many more believe learning to be difficult.  
 > Muad'Dib knew that every experience carries its lesson."*  
 > **— from *The Humanity of Muad'Dib* by the Princess Irulan**
-
 ---
