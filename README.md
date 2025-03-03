@@ -29,7 +29,7 @@ I'm **Luís**. I'm a 20-year-old **Computer Science student** passionate about *
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisign&size_weight=0.5&count_weight=0.5)
   
 </div>
 
