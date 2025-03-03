@@ -1,6 +1,6 @@
 <div align="center">
 
-### I'm Luís. I'm a 20-year-old Computer Science student passionate about creative technologies. I enjoy working with 3D modeling and 3D printing. Enthusiast of maker culture, microcontroller projects and embedded systems. Based in Brazil.
+#### I'm Luís. I'm a 20-year-old Computer Science student passionate about creative technologies. I enjoy working with 3D modeling and 3D printing. Enthusiast of maker culture, microcontroller projects and embedded systems. Based in Brazil.
 
 ## Technologies and skills
 
