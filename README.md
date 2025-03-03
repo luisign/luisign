@@ -1,8 +1,4 @@
-> "Muad'Dib learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn. It's shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson."
-### - from <i>The Humanity of Muad'Dib</i> by the Princess Irulan
-<br>
 <div align="center">
-
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -23,5 +19,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-%23000000.svg?style=for-the-badge&logo=micropython&logoColor=white)
-
 </div>
+<br>
+> *"Muad'Dib learned rapidly because his first training was in how to learn.  
+> And the first lesson of all was the basic trust that he could learn.  
+> It's shocking to find how many people do not believe they can learn,  
+> and how many more believe learning to be difficult.  
+> Muad'Dib knew that every experience carries its lesson."*  
+
+> **— from *The Humanity of Muad'Dib* by the Princess Irulan**  
+---
