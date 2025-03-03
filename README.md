@@ -2,7 +2,7 @@
 
 #### I'm Luís. I'm a 20-year-old Computer Science student passionate about creative technologies. I enjoy working with 3D modeling and 3D printing. Enthusiast of maker culture, microcontroller projects and embedded systems. Based in Brazil.
 
-## Technologies and skills
+### Technologies and skills
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
