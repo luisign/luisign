@@ -27,6 +27,12 @@ I'm **Luís**. I'm a 20-year-old **Computer Science student** passionate about *
 
 </div>
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+  
+</div>
+
 <br>
 
 > *"Muad'Dib learned rapidly because his first training was in how to learn.  
